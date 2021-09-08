@@ -11,7 +11,7 @@ namespace Example
         static void Main(string[] args)
         {
 
-            Console.WriteLine("");
+            Console.WriteLine("Hello Hub!");
         }
     }
 }
